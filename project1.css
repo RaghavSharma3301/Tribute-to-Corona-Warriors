@@ -1,0 +1,71 @@
+.carousel-item {
+    height: 65vh;
+    min-height: 350px;
+    background: no-repeat auto auto scroll;
+    -webkit-background-size: auto;
+    -moz-background-size: center;
+    -o-background-size: auto;
+    background-size: auto;
+  }
+  .lead{
+      color: black;
+      font-size: 10rem;
+  }
+  .display-4{
+      color: black;
+      font-weight: 900;
+  }
+  .ca{
+    padding-left: 3rem;
+    padding-right: 3rem;
+  }
+  #img{
+      padding-left: 3rem;
+      padding-right: 3rem;
+  }
+ #ig{
+    border:2px solid #fff;
+    background: url(img/tiger.png) no-repeat;
+    box-shadow: 10px 10px 5px #ccc;
+    -moz-box-shadow: 10px 10px 5px #ccc;
+    -webkit-box-shadow: 10px 10px 5px #ccc;
+    -khtml-box-shadow: 10px 10px 5px #ccc;
+ }
+ .card{
+    border-radius: 4px;
+    background: #fff;
+    box-shadow: 0 6px 10px rgba(0,0,0,.08), 0 0 6px rgba(0,0,0,.05);
+    transition: .3s transform cubic-bezier(.155,1.105,.295,1.12),.3s box-shadow,.3s -webkit-transform cubic-bezier(.155,1.105,.295,1.12);
+    cursor: pointer;
+}
+
+.card:hover{
+    transform: scale(1.05);
+    box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
+}
+.u{
+    text-align: center;
+    font-family: 'Kumbh Sans', sans-serif;
+    text-decoration: underline;
+    font-size: 5rem;
+}
+.cc{
+    padding-left: 4rem;
+    padding-right: 3rem;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+hr.h{
+    height: 12px;
+    border: 0;
+    box-shadow: inset 0 12px 12px -12px rgba(0, 0, 0, 0.5);
+}
+.ug{
+    background-color: burlywood;
+}
+.gg{
+    background-image: url(img/hea.jpg)
+}
+#m{
+    font-size: 20px;
+}
